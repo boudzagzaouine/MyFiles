@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.ids</groupId>
+  <artifactId>parent-ms</artifactId>
+  <versioning>
+    <lastUpdated>20220519101632</lastUpdated>
+    <snapshot>
+      <timestamp>20220519.101632</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.0.5-20220519.101632-1</value>
+        <updated>20220519101632</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>2.0.5-SNAPSHOT</version>
+</metadata>

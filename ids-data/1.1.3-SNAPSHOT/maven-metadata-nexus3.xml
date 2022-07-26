@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.ids</groupId>
+  <artifactId>ids-data</artifactId>
+  <versioning>
+    <lastUpdated>20220519101509</lastUpdated>
+    <snapshot>
+      <timestamp>20220519.101509</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1.3-20220519.101509-1</value>
+        <updated>20220519101509</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1.3-20220519.101509-1</value>
+        <updated>20220519101509</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.1.3-SNAPSHOT</version>
+</metadata>
